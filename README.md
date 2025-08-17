@@ -8,12 +8,11 @@
   <img src="https://skillicons.dev/icons?i=java&theme=light" title="Java" aria-label="Java" />
   <img src="https://skillicons.dev/icons?i=python" title="Python" aria-label="Python" />
   <br>
-  <h2 align="left">Frameworks</h2>
+  <h2 align="left">Frameworks & Tools</h2>
   <img src="https://skillicons.dev/icons?i=express" title="ExpressJS" aria-label="ExpressJS" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" aria-label="NodeJS" />
   <img src="https://skillicons.dev/icons?i=react" title="React" aria-label="React" />
-  <br>
-  <h2 align="left">Tools</h2>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="NextJS" aria-label="NextJS" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" aria-label="Git" />
   <img src="https://skillicons.dev/icons?i=neovim" title="Neovim" aria-label="Neovim" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VSCode" aria-label="VSCode" />
