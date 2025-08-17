@@ -1,15 +1,18 @@
+# MARKYRIOTT
 <img src="./assets/verycat.gif"/>
 
 <div align="center">
   <a href="">
-    <h2 align="left">Languages</h2>
-    <img src="https://skillicons.dev/icons?i=html" title="HTML" aria-label="HTML"></img>
+    <h3 align="left">Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" aria-label="HTML" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS" aria-label="CSS" />
     <img src="https://skillicons.dev/icons?i=javascript" title="Javascript" aria-label="Javascript" />
     <img src="https://skillicons.dev/icons?i=java&theme=light" title="Java" aria-label="Java" />
     <img src="https://skillicons.dev/icons?i=python" title="Python" aria-label="Python" />
+  </a>
     <br>
-    <h2 align="left">Frameworks & Tools</h2>
+  <a href="">
+    <h3 align="left">Frameworks & Tools:</h3>
     <img src="https://skillicons.dev/icons?i=express" title="ExpressJS" aria-label="ExpressJS" />
     <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" aria-label="NodeJS" />
     <img src="https://skillicons.dev/icons?i=react" title="React" aria-label="React" />
