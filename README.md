@@ -1,7 +1,7 @@
 <img src="./assets/verycat.gif"/>
 
 <div align="center">
-  <a href="github.com/Markyriott">
+  <a href="">
   <h2 align="left">Languages</h2>
   <img src="https://skillicons.dev/icons?i=html" title="HTML" aria-label="HTML"></img>
   <img src="https://skillicons.dev/icons?i=css" title="CSS" aria-label="CSS" />
