@@ -1,8 +1,8 @@
-![](https://github.com/Markyriott/markyRiott/blob/main/verycat.gif)
+<img src="./assets/verycat.gif"/>
 
 <div align="center">
   <h2 align="left">Languages</h2>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" aria-label="HTML" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" aria-label="HTML"></img>
   <img src="https://skillicons.dev/icons?i=css" title="CSS" aria-label="CSS" />
   <img src="https://skillicons.dev/icons?i=javascript" title="Javascript" aria-label="Javascript" />
   <img src="https://skillicons.dev/icons?i=java&theme=light" title="Java" aria-label="Java" />
