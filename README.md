@@ -1,16 +1,16 @@
-# 
-
-<picture><img src="./assets/verycat.gif"/></picture>
-
+ <p align="center"><code>working on stuff...</code></p>
 <div align="center">
-    <h2 align="left">Languages:</h2>
+    <picture><img src="./assets/verycat.gif"/></picture> 
+</div>
+<hr>
+<div align="center">
+    <h3>Programming Languages:</h3>
     <picture><img src="https://skillicons.dev/icons?i=java" title="Java" aria-label="Java" /></picture>
     <picture><img src="https://skillicons.dev/icons?i=python" title="Python" aria-label="Python" /></picture>
     <picture><img src="https://skillicons.dev/icons?i=html" title="HTML" aria-label="HTML" /></picture>
     <picture><img src="https://skillicons.dev/icons?i=css" title="CSS" aria-label="CSS" /></picture>
     <picture><img src="https://skillicons.dev/icons?i=javascript" title="Javascript" aria-label="Javascript" /></picture>
-    <br>
-    <h2 align="left">Frameworks & Tools:</h2>
+    <h3>Frameworks & Tools:</h3>
     <picture><img src="https://skillicons.dev/icons?i=express" title="ExpressJS" aria-label="ExpressJS" /></picture>
     <picture><img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" aria-label="NodeJS" /></picture>
     <picture><img src="https://skillicons.dev/icons?i=react" title="React" aria-label="React" /></picture>
