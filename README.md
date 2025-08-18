@@ -4,11 +4,11 @@
 
 <div align="center">
     <h2 align="left">Languages:</h2>
+    <picture><img src="https://skillicons.dev/icons?i=java" title="Java" aria-label="Java" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=python" title="Python" aria-label="Python" /></picture>
     <picture><img src="https://skillicons.dev/icons?i=html" title="HTML" aria-label="HTML" /></picture>
     <picture><img src="https://skillicons.dev/icons?i=css" title="CSS" aria-label="CSS" /></picture>
     <picture><img src="https://skillicons.dev/icons?i=javascript" title="Javascript" aria-label="Javascript" /></picture>
-    <picture><img src="https://skillicons.dev/icons?i=java&theme=light" title="Java" aria-label="Java" /></picture>
-    <picture><img src="https://skillicons.dev/icons?i=python" title="Python" aria-label="Python" /></picture>
     <br>
     <h2 align="left">Frameworks & Tools:</h2>
     <picture><img src="https://skillicons.dev/icons?i=express" title="ExpressJS" aria-label="ExpressJS" /></picture>
