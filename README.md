@@ -1,4 +1,4 @@
-# MARKYRIOTT
+# 
 
 <picture><img src="./assets/verycat.gif"/></picture>
 
